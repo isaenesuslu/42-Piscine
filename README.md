@@ -1,8 +1,9 @@
+![IMG_3245](https://github.com/user-attachments/assets/adb6ee72-155b-46fb-8119-f595a132b45a)
+
 ---
 
 # 📘 42 Piscine 
 
-![IMG_3245](https://github.com/user-attachments/assets/adb6ee72-155b-46fb-8119-f595a132b45a)
 
 Welcome to my **42 Piscine** repository — a complete archive of everything I worked on during the famous 42 swimming pool (Piscine).
 This repo contains **every Shell project, every C module, every Rush, every exam practice**, and additional tools I used along the way.
